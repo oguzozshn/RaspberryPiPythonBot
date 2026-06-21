@@ -1,0 +1,5 @@
+.env
+venv/
+my_vector_db/
+__pycache__/
+*.log
